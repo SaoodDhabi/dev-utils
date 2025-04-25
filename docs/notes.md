@@ -1,1 +1,3 @@
-- Week 1 Goals\n- Review data pipeline\n- Draft API endpoints
+Week 1 Goals
+- Review data pipeline
+- Draft API endpoints
